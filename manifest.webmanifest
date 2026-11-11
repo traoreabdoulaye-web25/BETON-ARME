@@ -1,0 +1,15 @@
+{
+  "name": "ABLO REINFORCED CONCRETE",
+  "short_name": "ABLO",
+  "description": "Calcul d'éléments en béton armé : GB 50010, BAEL 91, Eurocode 2",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e7eae9",
+  "theme_color": "#1d5a66",
+  "lang": "fr",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
